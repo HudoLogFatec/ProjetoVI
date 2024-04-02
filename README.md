@@ -41,16 +41,23 @@ Este projeto tem como metas principais:
 
 
 # Funcionalidades e Registros
+
  ## Vídeos
 
+
  ## Apresentações das Sprints
+ 
   ### Sprint 1: Desenvolvimento do Banco de Dados SQL
+
 
   ### Sprint 2: Desenvolvimento do Visualizador de Indicadores no Power BI
 
+
   ### Sprint 3: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
 
+
   ### Sprint 4: Aplicação do Método de Transportes para Otimização de Distribuição
+
 
  # Backlog do Produto
 
