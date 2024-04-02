@@ -7,7 +7,7 @@ Este projeto visa desenvolver um sistema integrado para análise de produtividad
 # Índice
 
 - [Objetivo do Projeto](#objetivo-do-projeto)
-- [Cronograma do Projeto] (#Cronograma-do-Projeto)
+- [Cronograma do Projeto](#Cronograma-do-Projeto)
 - [Funcionalidades e Registros](#funcionalidades-e-registros)
   - [Vídeos](#vídeos)
   - [Apresentações das Sprints](#apresentações-das-sprints)
