@@ -97,7 +97,7 @@ Este projeto tem como metas principais:
 
 # Autores
 ### Hudo Santhiago de Carvalho [Linkedin](linkedin.com/in/hudocarvalho)
-| Nome             | Linkedin                                    | GitHub       |
-|------------------|---------------------------------------------|--------------|
-| Hudo Carvalho    | [Linkedin](linkedin.com/in/hudocarvalho)    |              |
+| Nome                          | Linkedin                                    | GitHub       |
+|-------------------------------|---------------------------------------------|--------------|
+| Hudo Santhiago de Carvalho    | [Linkedin](linkedin.com/in/hudocarvalho)    |              |
 
