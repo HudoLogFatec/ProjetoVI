@@ -19,6 +19,14 @@ Este projeto visa desenvolver um sistema integrado para análise de produtividad
 ## Objetivo do Projeto
 O objetivo deste projeto é desenvolver e implementar uma solução integrada para análise de produtividade de veículos, otimização de distribuição e redução de custos em rotas de uma empresa embarcadora de carga. Utilizando a metodologia API (Aprender, Projetar, Implementar), o projeto visa proporcionar uma experiência de aprendizado baseada em problemas reais (RPBL) para os envolvidos, enquanto aborda desafios complexos enfrentados pela empresa no contexto da logística de transporte.
 
+Este projeto tem como metas principais:
+
+- Desenvolver um banco de dados SQL adequado para armazenar e processar informações sobre veículos, cargas e rotas.
+- Criar um visualizador de indicadores no Power BI para fornecer uma visão abrangente e intuitiva dos dados relacionados à produtividade dos veículos e eficiência das rotas.
+- Aplicar o método de transportes para otimizar a distribuição de cargas, identificando as melhores rotas e minimizando os custos operacionais.
+- Desenvolver habilidades práticas em modelagem de dados, SQL, análise de dados e visualização de indicadores para os participantes do projeto.
+- Fomentar competências em gestão de projetos, trabalho em equipe e solução de problemas através do desenvolvimento e implementação de um projeto aplicado.
+
 
   ## Cronograma do Projeto
 
