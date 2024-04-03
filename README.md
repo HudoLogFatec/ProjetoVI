@@ -97,7 +97,7 @@ Este projeto tem como metas principais:
 
 # Autores
 
-| Nome                          | Linkedin                                    | GitHub       |
-|-------------------------------|---------------------------------------------|--------------|
-| Hudo Santhiago de Carvalho    | [Linkedin](linkedin.com/in/hudocarvalho)    |              |
-
+| Nome                                 | Linkedin                                                              | GitHub       |
+|--------------------------------------|-----------------------------------------------------------------------|--------------|
+| Hudo Santhiago de Carvalho           | [Linkedin](linkedin.com/in/hudocarvalho)                              |              |
+| Aracéli Vitória Viana de Oliveira    | [Linkedin](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)           |              |
