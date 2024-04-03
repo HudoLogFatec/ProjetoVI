@@ -9,6 +9,7 @@ Este projeto visa desenvolver um sistema integrado para análise de produtividad
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Cronograma do Projeto](#Cronograma-do-Projeto)
 - [Funcionalidades e Registros](#funcionalidades-e-registros)
+  - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
   - [Vídeos](#vídeos)
   - [Apresentações das Sprints](#apresentações-das-sprints)
 - [Backlog do Produto](#backlog-do-produto)
@@ -42,20 +43,20 @@ Este projeto tem como metas principais:
 
 # Funcionalidades e Registros
 
+## Tecnologias Utilizadas
+- Software Jira
+- SQL
+- Microsoft Excel
+- Power BI
+- Python
+
  ## Vídeos
 
 
  ## Apresentações das Sprints
- 
   ### Sprint 1: Desenvolvimento do Banco de Dados SQL
-
-
   ### Sprint 2: Desenvolvimento do Visualizador de Indicadores no Power BI
-
-
   ### Sprint 3: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
-
-
   ### Sprint 4: Aplicação do Método de Transportes para Otimização de Distribuição
 
 
