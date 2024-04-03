@@ -91,4 +91,4 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 | Aracéli Vitória Viana de Oliveira    | [Linkedin](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)              |              |
 | Beatriz de Siqueira Mesquita         | [Linkedin](linkedin.com/in/beatriz-mesquita-899689241)                   |              |
 | Marilia Maria Costa                  | [Linkedin](linkedin.com/in/marilia-costa-b02191204)                      |              |
-| Rebeca Neves                         | [Linkedin](linkedin.com/in/rebecaneves-logistica?trk=contact-)           |              |
+| Rebeca Neves Gouveia                 | [Linkedin](linkedin.com/in/rebecaneves-logistica?trk=contact-)           |              |
