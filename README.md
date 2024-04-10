@@ -83,10 +83,10 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 
 # Autores
 
-| Função                    |Nome                                  | Linkedin                                                        | GitHub       |
+| Função                    |Nome                                  | Linkedin                                                                       | GitHub       |
 |---------------------------|--------------------------------------|-----------------------------------------------------------------|--------------|
-|Product Owner              | Aracéli Vitória Viana de Oliveira    | [Linkedin](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)     |              |
-|Scrum Master               | Rebeca Neves Gouveia                 | [Linkedin](linkedin.com/in/rebecaneves-logistica?trk=contact-)  |              |
-|Team Member                | Hudo Santhiago de Carvalho           | [Linkedin](linkedin.com/in/hudocarvalho)                        |              |
-|Team Member                | Beatriz de Siqueira Mesquita         | [Linkedin](linkedin.com/in/beatriz-mesquita-899689241)          |              |
-|Team Member                | Marilia Maria Costa                  | [Linkedin](linkedin.com/in/marilia-costa-b02191204)             |              |
+|Product Owner              | Aracéli Vitória Viana de Oliveira    | [![linkedin](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/1989cf25-a838-4230-8797-2a14ede04df5)](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)     |              |
+|Scrum Master               | Rebeca Neves Gouveia                 | [![linkedin](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/9d148621-2bf7-4a25-9a73-9b0f7d13e9e0)](linkedin.com/in/rebecaneves-logistica?trk=contact-)  |              |
+|Team Member                | Hudo Santhiago de Carvalho           | [![linkedin](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/5ae72aa1-5a71-400e-b573-dcea036aa1de)](linkedin.com/in/hudocarvalho)                        |              |
+|Team Member                | Beatriz de Siqueira Mesquita         | [![linkedin](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/0ec3fed2-d6eb-4985-a308-abdb01513b76)](linkedin.com/in/beatriz-mesquita-899689241)          |              |
+|Team Member                | Marilia Maria Costa                  | [![linkedin](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/06bb2577-a56c-4241-9235-d6c0d0a92a68)](linkedin.com/in/marilia-costa-b02191204)             |              |
