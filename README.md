@@ -31,11 +31,9 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 # Funcionalidades e Registros
 
 ## Tecnologias Utilizadas
-- Software Jira
-- SQL
-- Microsoft Excel
-- Power BI
-- Python
+![Design sem nome](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/ca901636-2e55-4239-834a-1fde5a2cc26c)
+
+
 
  ## Vídeos
 
@@ -85,10 +83,10 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 
 # Autores
 
-| Nome                                 | Linkedin                                                                 | GitHub       |
-|--------------------------------------|--------------------------------------------------------------------------|--------------|
-| Hudo Santhiago de Carvalho           | [Linkedin](linkedin.com/in/hudocarvalho)                                 |              |
-| Aracéli Vitória Viana de Oliveira    | [Linkedin](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)              |              |
-| Beatriz de Siqueira Mesquita         | [Linkedin](linkedin.com/in/beatriz-mesquita-899689241)                   |              |
-| Marilia Maria Costa                  | [Linkedin](linkedin.com/in/marilia-costa-b02191204)                      |              |
-| Rebeca Neves Gouveia                 | [Linkedin](linkedin.com/in/rebecaneves-logistica?trk=contact-)           |              |
+| Função                    |Nome                                  | Linkedin                                                        | GitHub       |
+|---------------------------|--------------------------------------|-----------------------------------------------------------------|--------------|
+|Product Owner              | Aracéli Vitória Viana de Oliveira    | [Linkedin](linkedin.com/in/arac%C3%A9li-oliveira-1b1b12211)     |              |
+|Scrum Master               | Rebeca Neves Gouveia                 | [Linkedin](linkedin.com/in/rebecaneves-logistica?trk=contact-)  |              |
+|Team Member                | Hudo Santhiago de Carvalho           | [Linkedin](linkedin.com/in/hudocarvalho)                        |              |
+|Team Member                | Beatriz de Siqueira Mesquita         | [Linkedin](linkedin.com/in/beatriz-mesquita-899689241)          |              |
+|Team Member                | Marilia Maria Costa                  | [Linkedin](linkedin.com/in/marilia-costa-b02191204)             |              |
