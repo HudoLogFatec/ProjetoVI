@@ -49,12 +49,12 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
  # Backlog do Produto
 
 ## Sprint 1: Desenvolvimento do Banco de Dados SQL
-- [ ] Definir a estrutura do banco de dados SQL para armazenar informações sobre veículos, cargas e rotas.
-- [ ] Criar tabelas adequadas para cada entidade (veículos, cargas e rotas) com as respectivas colunas.
-- [ ] Estabelecer as relações entre as tabelas para garantir a integridade dos dados.
-- [ ] Implementar procedimentos de importação e processamento de dados no banco de dados.
-- [ ] Testar e validar o banco de dados para garantir sua funcionalidade e desempenho.
-- [ ] Documentar o esquema do banco de dados e as instruções de uso.
+- [x] Definir a estrutura do banco de dados SQL para armazenar informações sobre veículos, cargas e rotas.
+- [x] Criar tabelas adequadas para cada entidade (veículos, cargas e rotas) com as respectivas colunas.
+- [x] Estabelecer as relações entre as tabelas para garantir a integridade dos dados.
+- [x] Implementar procedimentos de importação e processamento de dados no banco de dados.
+- [x] Testar e validar o banco de dados para garantir sua funcionalidade e desempenho.
+- [x] Documentar o esquema do banco de dados e as instruções de uso.
 
 ## Sprint 2: Desenvolvimento do Visualizador de Indicadores no Power BI
 - [ ] Identificar os indicadores-chave de desempenho relacionados à produtividade dos veículos.
