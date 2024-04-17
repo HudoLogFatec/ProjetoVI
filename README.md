@@ -37,7 +37,7 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 
 
  ## Vídeos
- #### Código SQL
+ #### Sprint 1
 
 https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2f2-a4ccdd302e1d
 
