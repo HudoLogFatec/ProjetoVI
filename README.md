@@ -21,8 +21,8 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 | Etapa            | Previsão      | Status       |
 |------------------|---------------|--------------|
 | Começo           | 13/03/2024    | Concluído    |
-| Sprint 01        | 17/04/2024    | Fazer        |
-| Sprint 02        | 08/05/2024    | Faze         |
+| Sprint 01        | 17/04/2024    | Concluído    |
+| Sprint 02        | 08/05/2024    | Fazer        |
 | Sprint 03        | 29/05/2024    | Fazer        |
 | Sprint 04        | 19/06/2024    | Fazer        |
 | Feira de Soluções| 27/06/2024    | Fazer        |
