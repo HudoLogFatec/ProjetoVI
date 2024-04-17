@@ -31,7 +31,8 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 # Funcionalidades e Registros
 
 ## Tecnologias Utilizadas
-![Design sem nome](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/ca901636-2e55-4239-834a-1fde5a2cc26c)
+![Design sem nome](https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/de95282c-fda7-47d4-a0e1-a3258efa0753)
+
 
 
 
