@@ -22,10 +22,10 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 |------------------|---------------|--------------|
 | Começo           | 13/03/2024    | Concluído    |
 | Sprint 01        | 17/04/2024    | Concluído    |
-| Sprint 02        | 08/05/2024    | Fazer        |
-| Sprint 03        | 29/05/2024    | Fazer        |
-| Sprint 04        | 19/06/2024    | Fazer        |
-| Feira de Soluções| 27/06/2024    | Fazer        |
+| Sprint 02        | 08/05/2024    | A fazer      |
+| Sprint 03        | 29/05/2024    | A fazer      |
+| Sprint 04        | 19/06/2024    | A fazer      |
+| Feira de Soluções| 27/06/2024    | A fazer      |
 
 
 # Funcionalidades e Registros
