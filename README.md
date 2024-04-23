@@ -18,14 +18,14 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 
   # Cronograma do Projeto
 
-| Etapa            | Previsão      | Status       |
-|------------------|---------------|--------------|
-| Começo           | 13/03/2024    | Concluído    |
-| Sprint 01        | 17/04/2024    | Concluído    |
-| Sprint 02        | 08/05/2024    | A fazer      |
-| Sprint 03        | 29/05/2024    | A fazer      |
-| Sprint 04        | 19/06/2024    | A fazer      |
-| Feira de Soluções| 27/06/2024    | A fazer      |
+| Etapa            | Previsão      | Status       | Relatório     |
+|------------------|---------------|--------------|---------------|
+| Começo           | 13/03/2024    | Concluído    | [Abrir Kick-off](https://github.com/HudoLogFatec/ProjetoVI/files/15069772/Kick-off.API.6.pdf)
+| Sprint 01        | 17/04/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15069693/Relatorio.Sprint.-.1.pdf)
+| Sprint 02        | 08/05/2024    | A fazer      |               |
+| Sprint 03        | 29/05/2024    | A fazer      |               |
+| Sprint 04        | 19/06/2024    | A fazer      |               |
+| Feira de Soluções| 27/06/2024    | A fazer      |               |
 
 
 # Funcionalidades e Registros
