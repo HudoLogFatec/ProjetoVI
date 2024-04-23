@@ -68,7 +68,15 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2
 - [ ] Testar e revisar o visualizador de indicadores para garantir sua precisão e usabilidade.
 - [ ] Documentar as análises realizadas e as conclusões obtidas.
 
-## Sprint 3: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
+## Sprint 3: Aplicação do Método de Transportes para Otimização de Distribuição
+- [ ] Definir os critérios de otimização para identificar as melhores rotas de distribuição de cargas.
+- [ ] Analisar os dados disponíveis para determinar a demanda e as restrições de distribuição.
+- [ ] Aplicar o método de transportes para determinar a alocação ótima de cargas em rotas específicas.
+- [ ] Avaliar os resultados da otimização e realizar ajustes conforme necessário.
+- [ ] Validar a eficácia da otimização em termos de minimização de custos operacionais.
+- [ ] Documentar o processo de otimização e os resultados obtidos.
+
+## Sprint 4: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
 - [ ] Identificar os indicadores-chave de desempenho relacionados à eficiência das rotas.
 - [ ] Desenvolver consultas SQL adicionais para extrair os dados necessários do banco de dados.
 - [ ] Expandir os modelos de dados existentes no Power BI para incluir os novos indicadores.
@@ -77,13 +85,6 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2
 - [ ] Testar e revisar as novas visualizações para garantir sua precisão e usabilidade.
 - [ ] Documentar as análises realizadas e as conclusões obtidas.
 
-## Sprint 4: Aplicação do Método de Transportes para Otimização de Distribuição
-- [ ] Definir os critérios de otimização para identificar as melhores rotas de distribuição de cargas.
-- [ ] Analisar os dados disponíveis para determinar a demanda e as restrições de distribuição.
-- [ ] Aplicar o método de transportes para determinar a alocação ótima de cargas em rotas específicas.
-- [ ] Avaliar os resultados da otimização e realizar ajustes conforme necessário.
-- [ ] Validar a eficácia da otimização em termos de minimização de custos operacionais.
-- [ ] Documentar o processo de otimização e os resultados obtidos.
 
 
 # Autores
