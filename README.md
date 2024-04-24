@@ -46,8 +46,8 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2
  ## Apresentações das Sprints
   ### Sprint 1: Desenvolvimento do Banco de Dados SQL
   ### Sprint 2: Desenvolvimento do Visualizador de Indicadores no Power BI
-  ### Sprint 3: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
-  ### Sprint 4: Aplicação do Método de Transportes para Otimização de Distribuição
+  ### Sprint 3: Aplicação do Método de Transportes para Otimização de Distribuição
+  ### Sprint 4: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
 
 
  # Backlog do Produto
