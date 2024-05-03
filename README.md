@@ -41,6 +41,10 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 
 https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2f2-a4ccdd302e1d
 
+### Sprint 2
+
+https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/50386eab-b196-4a4a-aaa4-3dda48781c1d
+
 
 
  ## Apresentações das Sprints
