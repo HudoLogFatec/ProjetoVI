@@ -43,7 +43,9 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/83512338-28dd-47ae-a2
 
  ### Sprint 2
 
-https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/50386eab-b196-4a4a-aaa4-3dda48781c1d
+https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/e950327f-3e2b-490c-a4db-50a5741ea718
+
+
 
 
 
@@ -65,12 +67,12 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/50386eab-b196-4a4a-aa
 - [x] Documentar o esquema do banco de dados e as instruções de uso.
 
 ## Sprint 2: Desenvolvimento do Visualizador de Indicadores no Power BI
-- [ ] Identificar os indicadores-chave de desempenho relacionados à produtividade dos veículos.
-- [ ] Desenvolver consultas SQL para extrair os dados necessários do banco de dados.
-- [ ] Criar modelos de dados no Power BI e importar os dados do banco de dados.
-- [ ] Desenvolver visualizações adequadas para apresentar os indicadores de forma clara e intuitiva.
-- [ ] Testar e revisar o visualizador de indicadores para garantir sua precisão e usabilidade.
-- [ ] Documentar as análises realizadas e as conclusões obtidas.
+- [X] Identificar os indicadores-chave de desempenho relacionados à produtividade dos veículos.
+- [X] Desenvolver consultas SQL para extrair os dados necessários do banco de dados.
+- [X] Criar modelos de dados no Power BI e importar os dados do banco de dados.
+- [X] Desenvolver visualizações adequadas para apresentar os indicadores de forma clara e intuitiva.
+- [X] Testar e revisar o visualizador de indicadores para garantir sua precisão e usabilidade.
+- [X] Documentar as análises realizadas e as conclusões obtidas.
 
 ## Sprint 3: Aplicação do Método de Transportes para Otimização de Distribuição
 - [ ] Definir os critérios de otimização para identificar as melhores rotas de distribuição de cargas.
