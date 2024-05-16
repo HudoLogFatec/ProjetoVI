@@ -7,6 +7,8 @@
 - [Funcionalidades e Registros](#funcionalidades-e-registros)
   - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
   - [Vídeos](#vídeos)
+    - [Sprint 1](#sprint-1)
+    - [Sprint 2](#sprint-2)
   - [Apresentações das Sprints](#apresentações-das-sprints)
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
