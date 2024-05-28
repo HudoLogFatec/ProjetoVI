@@ -25,7 +25,7 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 | Começo           | 13/03/2024    | Concluído    | [Abrir Kick-off](https://github.com/HudoLogFatec/ProjetoVI/files/15069772/Kick-off.API.6.pdf)
 | Sprint 01        | 17/04/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15069693/Relatorio.Sprint.-.1.pdf)
 | Sprint 02        | 08/05/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15377915/Relatorio.Sprint.-.2.pdf)            
-| Sprint 03        | 29/05/2024    | A fazer      |               |
+| Sprint 03        | 29/05/2024    | Concluído    |               |
 | Sprint 04        | 19/06/2024    | A fazer      |               |
 | Feira de Soluções| 27/06/2024    | A fazer      |               |
 
@@ -78,12 +78,12 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/824cde3f-5b35-4726-80
 - [X] Documentar as análises realizadas e as conclusões obtidas.
 
 ## Sprint 3: Aplicação do Método de Transportes para Otimização de Distribuição
-- [ ] Definir os critérios de otimização para identificar as melhores rotas de distribuição de cargas.
-- [ ] Analisar os dados disponíveis para determinar a demanda e as restrições de distribuição.
-- [ ] Aplicar o método de transportes para determinar a alocação ótima de cargas em rotas específicas.
-- [ ] Avaliar os resultados da otimização e realizar ajustes conforme necessário.
-- [ ] Validar a eficácia da otimização em termos de minimização de custos operacionais.
-- [ ] Documentar o processo de otimização e os resultados obtidos.
+- [X] Definir os critérios de otimização para identificar as melhores rotas de distribuição de cargas.
+- [X] Analisar os dados disponíveis para determinar a demanda e as restrições de distribuição.
+- [X] Aplicar o método de transportes para determinar a alocação ótima de cargas em rotas específicas.
+- [X] Avaliar os resultados da otimização e realizar ajustes conforme necessário.
+- [X] Validar a eficácia da otimização em termos de minimização de custos operacionais.
+- [X] Documentar o processo de otimização e os resultados obtidos.
 
 ## Sprint 4: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
 - [ ] Identificar os indicadores-chave de desempenho relacionados à eficiência das rotas.
