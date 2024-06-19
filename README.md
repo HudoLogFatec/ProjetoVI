@@ -27,7 +27,7 @@ Este projeto tem como objetivo a criação de um sistema integrado para análise
 | Sprint 01        | 17/04/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15069693/Relatorio.Sprint.-.1.pdf)
 | Sprint 02        | 08/05/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15377915/Relatorio.Sprint.-.2.pdf)            
 | Sprint 03        | 29/05/2024    | Concluído    | [Abrir relatório](https://github.com/HudoLogFatec/ProjetoVI/files/15484952/Relatorio.Sprint.-.3.pdf)
-| Sprint 04        | 19/06/2024    | Concluído    |               |
+| Sprint 04        | 19/06/2024    | Concluído    | [Abrir apresentação](https://github.com/user-attachments/files/15906550/Apresentacao_Feira_Solucoes.pdf)|
 | Feira de Soluções| 27/06/2024    | A fazer      |               |
 
 
