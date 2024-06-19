@@ -91,13 +91,13 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/824cde3f-5b35-4726-80
 - [X] Documentar o processo de otimização e os resultados obtidos.
 
 ## Sprint 4: Desenvolvimento do Visualizador de Indicadores no Power BI (Continuação)
-- [ ] Identificar os indicadores-chave de desempenho relacionados à eficiência das rotas.
-- [ ] Desenvolver consultas SQL adicionais para extrair os dados necessários do banco de dados.
-- [ ] Expandir os modelos de dados existentes no Power BI para incluir os novos indicadores.
-- [ ] Desenvolver visualizações adicionais para apresentar os novos indicadores de forma clara e intuitiva.
-- [ ] Integrar as novas visualizações ao visualizador de indicadores existente no Power BI.
-- [ ] Testar e revisar as novas visualizações para garantir sua precisão e usabilidade.
-- [ ] Documentar as análises realizadas e as conclusões obtidas.
+- [x] Identificar os indicadores-chave de desempenho relacionados à eficiência das rotas.
+- [x] Desenvolver consultas SQL adicionais para extrair os dados necessários do banco de dados.
+- [x] Expandir os modelos de dados existentes no Power BI para incluir os novos indicadores.
+- [x] Desenvolver visualizações adicionais para apresentar os novos indicadores de forma clara e intuitiva.
+- [x] Integrar as novas visualizações ao visualizador de indicadores existente no Power BI.
+- [x] Testar e revisar as novas visualizações para garantir sua precisão e usabilidade.
+- [x] Documentar as análises realizadas e as conclusões obtidas.
 
 
 
