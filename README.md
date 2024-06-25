@@ -10,6 +10,7 @@
     - [Sprint 1](#sprint-1)
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
+    - [Sprint 4](#sprint-4)
   - [Apresentações das Sprints](#apresentações-das-sprints)
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
@@ -50,6 +51,10 @@ https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/824cde3f-5b35-4726-80
  ### Sprint 3
  
  https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/6568faca-100d-45c6-b521-e75d1a2d8d73
+
+### Sprint 4
+
+https://github.com/HudoLogFatec/ProjetoVI/assets/165520407/633d0c9f-1792-4e50-a0e9-18636f7ab2a9
 
 
 
